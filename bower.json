@@ -1,5 +1,5 @@
 {
-  "name": "snmp",
+  "name": "capi5k-snmp",
   "version": "0.0.0",
   "homepage": "https://github.com/capi5k/capi5k-snmp",
   "authors": [
@@ -15,6 +15,6 @@
   ],
   "dependencies": 
   {
-    "puppet": "https://github.com/capi5k/capi5k-puppet/tarball/master"
+    "capi5k-puppet": "https://github.com/capi5k/capi5k-puppet/tarball/master"
   }
 }

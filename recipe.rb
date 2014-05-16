@@ -1,4 +1,4 @@
-set :snmp_path, "#{recipes_path}/snmp"
+set :snmp_path, "#{recipes_path}/capi5k-snmp"
 
 set :puppet_p, "https_proxy='http://proxy:3128' http_proxy='http://proxy:3128' puppet"
 set :gem_p, "https_proxy='http://proxy:3128' http_proxy='http://proxy:3128' gem"
