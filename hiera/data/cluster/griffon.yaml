@@ -1,0 +1,3 @@
+---
+  snmp::miburl: "http://git.grid5000.fr/MIB-files/powernet403.mib"
+  snmp::mib: "PowerNet-MIB"

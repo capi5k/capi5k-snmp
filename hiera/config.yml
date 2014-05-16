@@ -1,0 +1,11 @@
+---
+:backends:
+  - yaml
+:yaml:
+  :datadir: /tmp/hiera/data
+:json:
+  :datadir: /tmp/hiera/data
+:hierarchy:
+  - "node/%{::fqdn}"
+  - "cluster/%{::cluster}"
+  - common

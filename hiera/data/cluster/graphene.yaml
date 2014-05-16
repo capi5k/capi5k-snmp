@@ -1,0 +1,5 @@
+---
+  snmp::miburl: "http://git.grid5000.fr/MIB-files/EATON-EPDU-MIB.txt"
+  snmp::oidurl: "http://git.grid5000.fr/MIB-files/EATON-OIDS.txt"
+  snmp::mib: "EATON-EPDU-MIB"
+  snmp::oid: "EATON-OIDS"
