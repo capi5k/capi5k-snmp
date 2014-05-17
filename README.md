@@ -1,4 +1,4 @@
-capi5k-cassandra
+capi5k-snmp
 ================
 
 ## Include it in your project
